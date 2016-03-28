@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 云极客前端技术文档
-subtitle: 专注前端100年
+title: Sumight's Blog
+subtitle: next please
 description:
-author: John Doe
-language:
+author: Sumight
+language: zh-Hans
 timezone:
 
 # URL
@@ -65,14 +65,14 @@ pagination_dir: page
 ## Themes: http://hexo.io/themes/
 # theme: landscape
 # theme: jekyll
-# theme: xjc
-theme: modernist
+theme: nexT
+# theme: modernist
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:ycode-front/ycode-front.github.io.git
+  repo: git@github.com:sumight/sumight.github.io.git
 
 feed:
   type: atom
